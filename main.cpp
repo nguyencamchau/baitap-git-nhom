@@ -5,6 +5,12 @@ void nhap(int &n) {
 void xuat(int n) {
 }
 void kieTraChan(int n){
+    if(n %2 ==m 0){
+        cout << n << "La so chan"
+    }
+    else{
+        cout << n << "La so le"
+    }
 } 
 int main() {
     int n;
